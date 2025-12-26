@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
 <h3 align="center">Full-Stack Web Developer | Building Scalable, Secure & Real-World Web Applications</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderaam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coderaam&theme=algolia&no-frame=true&row=1" />
