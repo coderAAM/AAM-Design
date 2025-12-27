@@ -1,85 +1,127 @@
-<!-- ======= HEADER BANNER ======= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Ahmed%20Ali&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- ======= ANIMATED HEADER ======= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ahmed%20Ali&fontSize=45&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descAlignY=60" />
 
-<!-- ======= INTRO ======= -->
-<h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
-<h3 align="center">Full-Stack Web Developer | Building Scalable, Secure & Real-World Web Applications</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderaam&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<!-- ======= DEVELOPER GIF ======= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
-
-<!-- ======= SHORT BIO ======= -->
-<h2 align="center">🚀 Full-Stack Web Developer</h2>
+<h3 align="center">
+🚀 Building Scalable • Secure • Production-Ready Web Applications
+</h3>
 
 <p align="center">
-  I build <b>production-level, scalable & secure</b> web applications.<br/>
-  Passionate about <b>clean code, problem solving</b> & real-world projects.
+  <img src="https://komarev.com/ghpvc/?username=coderaam&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/coderaam?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/coderaam?label=Stars&style=flat-square" />
 </p>
+
+---
+
+<!-- ======= DEVELOPER ANIMATION ======= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
+</p>
+
+---
+
+<h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-blue" />
-  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express-green" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen" />
-</p>
-
-<!-- ======= ABOUT DETAILS ======= -->
-### 👨‍💻 About Me
-- 🔭 Currently working on **Mughal Brands Store**  
-  👉 https://mughalbrands.vercel.app/
-- 🌱 Currently learning **React & Next.js**
-- 👯 Looking to collaborate on **Full-Stack Projects**
-- 👨‍💻 All projects: https://ahmedalip.vercel.app
-- 📝 Articles: https://devdesign-wine.vercel.app
-- 💬 Ask me about **Production-Level Web Applications**
-- 📄 Experience: **0–1 year in Tech Companies**
-- ⚡ Fun fact: *I build production apps and still get excited when the code works on first run.*
-
-<!-- ======= CONTRIBUTION GRAPH ======= -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderaam&theme=react-dark" />
-</p>
-
-<!-- ======= CONNECT ======= -->
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-mughal-bbb274289" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://www.instagram.com/dev.design6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-</p>
-
-<!-- ======= SKILLS ======= -->
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
-
-<!-- ======= STATS ======= -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderaam&show_icons=true&theme=react" />
+I am a <b>Full-Stack Web Developer</b> with strong experience in building<br/>
+<b>real-world, production-level applications</b>.<br/><br/>
+I enjoy solving complex problems, writing clean code,<br/>
+and building secure & scalable systems.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaam&layout=compact&theme=react" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Tailwind-blueviolet" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-success" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-brightgreen" />
+</p>
+
+---
+
+## 🧠 What I Do
+- 🔥 Build **production-ready full-stack applications**
+- 🔐 Implement **authentication, authorization & encryption**
+- 🧩 Strong **error handling & debugging**
+- 🚀 REST APIs & backend architecture
+- 🎨 Modern UI/UX with responsive design
+- 🧠 Problem solving & performance optimization
+
+---
+
+## 🛠️ Tech Stack (Expanded)
+
+### 🎨 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+### 🧰 Tools & Others
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+## 🔥 Featured Project
+🚀 **Mughal Brands Store**  
+👉 https://mughalbrands.vercel.app/
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderaam&theme=github-compact" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderaam&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderaam&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderaam&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderaam&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/ahmed-mughal-bbb274289">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+<a href="https://www.instagram.com/dev.design6/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+⚡ I love debugging so much that fixing one bug feels like winning a game 🎯
 
 <!-- ======= FOOTER ======= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
